@@ -1,4 +1,4 @@
-# Project 2
+# Ray Tracing Performance Analaysis (GPUs)
 
 This project implements a ray tracing simulation using three different approaches: OpenMP for CPU parallelization, CUDA for GPU acceleration, and a hybrid MPI+CUDA for distributed GPU computing. Ray tracing is a rendering technique for generating images by tracing the path of light as pixels in an image plane and simulating the effects of its encounters with virtual objects. The simulation calculates intersections between rays and objects to determine the color and brightness of pixels, creating highly realistic images.
 
